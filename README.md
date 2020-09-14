@@ -1,2 +1,3 @@
 # Práctica de Git Grupal
-Inserte la descripción de su proyecto aquí
+
+Esta es una actividad para hacerse en grupo.
